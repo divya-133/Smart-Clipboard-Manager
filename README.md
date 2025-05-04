@@ -47,6 +47,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/SmartClipboardManager.git
+   git clone https://github.com/divya-133
+   /SmartClipboardManager.git
    cd SmartClipboardManager  
    ```
