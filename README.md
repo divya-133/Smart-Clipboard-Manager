@@ -21,6 +21,19 @@
 
 ---
 
+## 🖼️ Screenshots 
+
+<img width="1920" height="1080" alt="Screenshot 2025-05-04 075641" src="https://github.com/user-attachments/assets/a276ebc5-2706-4a08-8a41-9a06bd00f0c1" />
+
+## Light Theme
+<img width="1920" height="1080" alt="Screenshot 2025-05-04 075659" src="https://github.com/user-attachments/assets/6e14b291-6061-4dff-8395-0630eef2be71" />
+
+## Dark Theme 
+<img width="1920" height="1080" alt="Screenshot 2025-05-04 075715" src="https://github.com/user-attachments/assets/45acc941-5c62-4676-85d7-91f7a56069b7" />
+
+---
+
+
 ## 🛠 Tech Stack
 
 * **Language**: Java 17+
